@@ -1,4 +1,4 @@
-# React Hooks⚓
+# React-Typescript
 This repo shows, how to use react with typescript !!
  
  Teck Stack Used🔥
